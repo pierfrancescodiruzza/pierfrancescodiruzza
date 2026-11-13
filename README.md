@@ -6,6 +6,14 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 
 ---
 
+## 🔭 What I'm Currently Working On
+
+- **LianeCare Matching Algorithm (*LianeMatch*):** Evolving the proprietary matching engine that connects family care needs with qualified care professionals based on skills, availability, and context, enhanced by continuous human oversight.
+- **LianeCare Contract Management:** Designing and streamlining end-to-end digital workflows for regular employment contracts, compliance, and bureaucratic administration for families and care workers.
+- **LianeCare Verification Process:** Building and scaling the multi-step vetting, validation, and quality assurance protocol to guarantee trust and safety across the entire care network.
+
+---
+
 ## 🚀 What I Do
 
 - **Product Management & Strategy:** Defining product roadmaps, translating complex user and business needs (B2B Corporate, B2C Employees, and Care Professionals) into scalable digital features, and optimizing matching ecosystems (*Human + Tech* synergy).
@@ -15,25 +23,32 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 
 ---
 
-## 🛠 Core Skills & Competencies
+## 🛠 Core Skills & Tech Stack
 
 ### Product Strategy & Execution
-- End-to-End Product Lifecycle & Roadmap Prioritization
-- B2B SaaS / Corporate Welfare & Two-Sided Platform Dynamics
-- User Flows, Wireframing & Feature Specification
-- Funnel Analytics, Cohort Retention & KPI Definition
-- Continuous Discovery & Backlog Management
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-033F28?style=for-the-badge)
+![Roadmap Prioritization](https://img.shields.io/badge/Roadmap_Prioritization-033F28?style=for-the-badge)
+![B2B SaaS](https://img.shields.io/badge/B2B_SaaS-033F28?style=for-the-badge)
+![Two-Sided Platforms](https://img.shields.io/badge/Two--Sided_Platforms-033F28?style=for-the-badge)
+![Continuous Discovery](https://img.shields.io/badge/Continuous_Discovery-033F28?style=for-the-badge)
+![Funnel & Cohort Analytics](https://img.shields.io/badge/Funnel_%26_Cohort_Analytics-033F28?style=for-the-badge)
 
 ### AI & Agentic Systems
-- **Context Engineering & Prompt Architecture:** Designing deterministic rulebooks (`CLAUDE.md`, `AGENT.md`) to prevent hallucinations and enforce system guardrails.
-- **RAG (Retrieval-Augmented Generation):** Structuring modular markdown knowledge bases for accurate semantic retrieval.
-- **Agentic IDE Workflows:** Operating AI-assisted development and documentation pipelines via Git/GitHub and modern agentic workspaces.
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-6E40C9?style=for-the-badge)
+![Prompt Architecture](https://img.shields.io/badge/Prompt_Architecture-6E40C9?style=for-the-badge)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E40C9?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### Technical & Software Stack
-- **Product Analytics & Data:** Amplitude, Google Analytics 4 (GA4), SQL
-- **Design & Prototyping:** Figma (Wireframing, User Flows, UI/UX Collaboration)
-- **Web & Markup:** HTML5, Markdown, Structured Data
-- **Version Control & Ops:** Git, GitHub, GitHub Projects, CI/CD Documentation Workflows
+### Product Analytics, Design & Tech
+![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=for-the-badge&logo=amplitude&logoColor=white)
+![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
