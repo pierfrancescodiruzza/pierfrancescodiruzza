@@ -10,11 +10,63 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 
 *Leading the ongoing evolution of the core products and features I conceived, designed, and launched independently from the ground up:*
 
-- **LianeCare Matching Algorithm (*LianeMatch*):** Evolving the proprietary matching engine—originally conceived and designed by me—that connects family care needs with qualified care professionals based on skills, availability, and context, enhanced by continuous human oversight. **Impact:** Reduced average time-to-match by 60% (from 10 days to under 48 hours) and increased successful family-caregiver placement rates by 35%, cutting manual coordination overhead by 50%.
-- **LianeCare Payroll Management:** Scaling the end-to-end digital workflow I invented to streamline regular employment contracts, compliance, and bureaucratic administration for families and care workers. **Impact:** Automated 80% of contractual and administrative steps, reducing contract activation time from 7 days to 15 minutes and generating a recurring revenue stream adopted by 45% of active families.
-- **LianeCare Verification Process (_LianeTrust_):** Advancing the multi-step vetting, validation, and quality assurance protocol I created from scratch to guarantee trust and safety across the entire care network. **Impact:** Achieved 100% compliance across 2,500+ vetted professionals, cutting candidate onboarding time by 40% and serving as a key enabler for closing 15+ enterprise B2B corporate clients.
-- **LianeCare Helpdesk:** Developing and managing the dedicated support and ticketing system I built independently to streamline user assistance, issue resolution, and operational workflows. **Impact:** Reduced average ticket resolution time by 55% and increased self-service deflection by 38%, allowing the operations team to handle 3x support volume without expanding headcount.
-- **LianeCare Changelog:** Maintaining the public product changelog platform I conceived and launched solo to communicate continuous feature releases, system improvements, and product updates transparently. **Impact:** Boosted post-release feature adoption by 28% across B2B HR stakeholders and end users, reducing repetitive product-related support inquiries by 30%.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 LianeMatch (Matching Algorithm)</h3>
+      <p><i>Proprietary matching engine conceived & designed from scratch</i></p>
+      <p>Connects family care needs with qualified care professionals based on skills, availability, and context, enhanced by continuous human oversight.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Time--to--Match--60%25-033F28?style=flat-square" />
+        <img src="https://img.shields.io/badge/Placements-+35%25-033F28?style=flat-square" />
+        <img src="https://img.shields.io/badge/Manual_Ops--50%25-033F28?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 LianeCare Payroll Management</h3>
+      <p><i>End-to-end digital workflow invented from scratch</i></p>
+      <p>Streamlines regular employment contracts, compliance, and bureaucratic administration for families and care workers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Automation-80%25-1E61F0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Activation-7d_→_15m-1E61F0?style=flat-square" />
+        <img src="https://img.shields.io/badge/Adoption-45%25_Families-1E61F0?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ LianeTrust (Verification Process)</h3>
+      <p><i>Multi-step vetting & QA protocol created from scratch</i></p>
+      <p>Guarantees trust, safety, and full regulatory compliance across the entire care network.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Compliance-100%25_(2.5k+_Pros)-6E40C9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Onboarding--40%25-6E40C9?style=flat-square" />
+        <img src="https://img.shields.io/badge/B2B_Clients-15+_Enterprise-6E40C9?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎧 LianeCare Helpdesk</h3>
+      <p><i>Dedicated ticketing & support system built solo</i></p>
+      <p>Streamlines user assistance, issue resolution, and internal operational workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Resolution_Time--55%25-D97757?style=flat-square" />
+        <img src="https://img.shields.io/badge/Self--Service-+38%25-D97757?style=flat-square" />
+        <img src="https://img.shields.io/badge/Support_Scale-3x_Volume-D97757?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📢 LianeCare Changelog</h3>
+      <p><i>Public product release platform conceived & launched solo</i></p>
+      <p>Communicates continuous feature releases, system improvements, and product updates transparently to B2B HR stakeholders and families.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Feature_Adoption-+28%25-0E7490?style=flat-square" />
+        <img src="https://img.shields.io/badge/Repetitive_Tickets--30%25-0E7490?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
