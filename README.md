@@ -25,7 +25,7 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 
 ## 🛠 Core Skills & Tech Stack
 
-### Product Strategy & Execution
+### Product Management
 ![Product Strategy](https://img.shields.io/badge/Product_Strategy-033F28?style=for-the-badge)
 ![Roadmap Prioritization](https://img.shields.io/badge/Roadmap_Prioritization-033F28?style=for-the-badge)
 ![B2B SaaS](https://img.shields.io/badge/B2B_SaaS-033F28?style=for-the-badge)
@@ -40,7 +40,7 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E40C9?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### Product Analytics, Design & Tech
+### Tools
 ![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=for-the-badge&logo=amplitude&logoColor=white)
 ![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
