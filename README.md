@@ -6,28 +6,21 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 
 ---
 
-## 🏆 Key Achievements
-
-- **0-to-1 Core Product Innovation:** Conceived, designed, and launched from scratch the three foundational pillars of the platform—the **LianeCare Matching Algorithm**, the **Contract Management System**, and the **Verification Process**.
-- **AI-Native Operating System Architecture:** Designed and implemented the **Harness Framework** (`1-canon`, `2-entities`, `3-signals`) across company repositories, eliminating context loss and standardizing multi-agent product workflows.
-- **Data-Driven Product Discovery:** Established quantitative behavioral tracking and funnel instrumentation via Amplitude and SQL, aligning cross-functional product roadmaps with measurable user retention and B2B/B2C adoption goals.
-- **Zero-Hallucination AI Governance:** Engineered deterministic rulebooks (`CLAUDE.md`, `AGENT.md`) and RAG knowledge structures that enforce strict brand, legal, and technical guardrails across automated outputs.
-
----
-
 ## 🔭 What I'm Currently Working On
 
-*Leading the ongoing evolution of the three core product features I conceived and built from the ground up:*
+*Leading the ongoing evolution of the core products and features I conceived, designed, and launched independently from the ground up:*
 
 - **LianeCare Matching Algorithm (*LianeMatch*):** Evolving the proprietary matching engine—originally conceived and designed by me—that connects family care needs with qualified care professionals based on skills, availability, and context, enhanced by continuous human oversight.
 - **LianeCare Contract Management:** Scaling the end-to-end digital workflow I invented to streamline regular employment contracts, compliance, and bureaucratic administration for families and care workers.
 - **LianeCare Verification Process:** Advancing the multi-step vetting, validation, and quality assurance protocol I created from scratch to guarantee trust and safety across the entire care network.
+- **LianeCare Helpdesk:** Developing and managing the dedicated support and ticketing system I built independently to streamline user assistance, issue resolution, and operational workflows.
+- **LianeCare Changelog:** Maintaining the public product changelog platform I conceived and launched solo to communicate continuous feature releases, system improvements, and product updates transparently.
 
 ---
 
 ## 🚀 What I Do
 
-- **0-to-1 Product Conception & Strategy:** Ideating new core products from scratch, defining product roadmaps, and translating complex user and business needs (B2B Corporate, B2C Employees, and Care Professionals) into scalable digital features (*Human + Tech* synergy).
+- **0-to-1 Product Conception & Execution:** Ideating, building, and launching core products independently from scratch, defining roadmaps, and translating complex user and business needs (B2B Corporate, B2C Employees, and Care Professionals) into scalable digital features (*Human + Tech* synergy).
 - **AI Engineering & Agentic Workflows:** Designing structured knowledge architectures, implementing Retrieval-Augmented Generation (RAG) pipelines, and practicing advanced **Context Engineering** to govern AI agents in product operations.
 - **Data-Driven Product Discovery:** Analyzing user behavior, cohort retention, and product funnels through quantitative and qualitative signals to prioritize high-impact releases.
 - **Cross-Functional Execution:** Collaborating closely with engineering, design, and operations teams to ship reliable features and maintain strict product governance.
@@ -40,6 +33,7 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 ![0-to-1 Product Creation](https://img.shields.io/badge/0--to--1_Product_Creation-033F28?style=for-the-badge)
 ![Product Strategy](https://img.shields.io/badge/Product_Strategy-033F28?style=for-the-badge)
 ![Roadmap Prioritization](https://img.shields.io/badge/Roadmap_Prioritization-033F28?style=for-the-badge)
+![Backlog Management](https://img.shields.io/badge/Backlog_Management-033F28?style=for-the-badge)
 ![B2B SaaS](https://img.shields.io/badge/B2B_SaaS-033F28?style=for-the-badge)
 ![Two-Sided Platforms](https://img.shields.io/badge/Two--Sided_Platforms-033F28?style=for-the-badge)
 ![Continuous Discovery](https://img.shields.io/badge/Continuous_Discovery-033F28?style=for-the-badge)
@@ -52,6 +46,8 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 ![Prompt Architecture](https://img.shields.io/badge/Prompt_Architecture-6E40C9?style=for-the-badge)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-6E40C9?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-6E40C9?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge)
 
 ### Product Analytics, Design & Tech
 ![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=for-the-badge&logo=amplitude&logoColor=white)
@@ -61,15 +57,3 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📂 Featured Architecture: AI-Native Product Ops
-
-I design repository-based operating systems that allow product teams and AI agents to collaborate without context loss:
-
-```text
-├── 1-canon/       # Immutable product principles, system rules & technical guardrails
-├── 2-entities/    # Active roadmap, product specs, user flows & feature definitions
-├── 3-signals/     # Empirical product data (Amplitude, GA4, user feedback) — zero interpolation
-└── templates/     # Standardized PRD & execution blueprints
