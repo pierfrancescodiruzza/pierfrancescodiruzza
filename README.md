@@ -18,15 +18,6 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 
 ---
 
-## 🚀 What I Do
-
-- **0-to-1:** Ideating, building, and launching core products independently from scratch, defining roadmaps, and translating complex user and business needs (B2B Corporate, B2C Employees, and Care Professionals) into scalable digital features (*Human + Tech* synergy).
-- **AI:** Designing structured knowledge architectures, implementing Retrieval-Augmented Generation (RAG) pipelines, and practicing advanced **Context Engineering** to govern AI agents in product operations.
-- **Data:** Analyzing user behavior, cohort retention, and product funnels through quantitative and qualitative signals to prioritize high-impact releases.
-- **Collaboration:** Collaborating closely with engineering, design, and operations teams to ship reliable features and maintain strict product governance.
-
----
-
 ## 🛠 Core Skills & Tech Stack
 
 ### Product Strategy & Execution
