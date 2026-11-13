@@ -55,7 +55,7 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
       </p>
     </td>
   </tr>
-  <tr>
+</table>
 
 ---
 
