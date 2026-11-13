@@ -45,7 +45,7 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎧 LianeCare Helpdesk</h3>
+      <h3>🎧 LianeCare Support & Helpdesk</h3>
       <p><i>Dedicated ticketing & support system built solo</i></p>
       <p>Streamlines user assistance, issue resolution, and internal operational workflows.</p>
       <p>
