@@ -1,49 +1,48 @@
 # Hi, I'm Pierfrancesco Di Ruzza 👋
 
-### Product Manager @ [LianeCare](https://lianecare.com) | AI-Native Product Operations & Growth Strategist
+### Product Manager @ [LianeCare](https://lianecare.com) | AI-Native Product Operations & Systems
 
-Bridging product strategy, AI-driven workflows, and scalable growth systems. At **LianeCare**, I drive product evolution, operational excellence, and data-informed marketing strategies within Italy's leading technological ecosystem for caregiving and corporate people caring.
+Bridging product strategy, AI-driven workflows, and scalable digital systems. At **LianeCare**, I drive product evolution, user experience, and operational excellence within Italy's leading technological ecosystem for caregiving and corporate people caring.
 
 ---
 
 ## 🚀 What I Do
 
-- **Product Management & Strategy:** Defining product roadmaps, translating complex user and business needs (B2B Corporate, B2C Employees, and Care Professionals) into scalable digital solutions, and optimizing matching ecosystems (*Human + Tech* synergy).
-- **AI Engineering & Agentic Workflows:** Designing structured knowledge architectures (such as the **Harness Framework**: `canon`, `entities`, `signals`), implementing Retrieval-Augmented Generation (RAG) pipelines, and practicing advanced **Context Engineering** to govern AI agents in product and marketing operations.
-- **Data-Driven Growth & Technical SEO/GEO:** Building intent-driven content ecosystems, technical on-page optimization, and **Generative Engine Optimization (GEO)** to track and enhance brand visibility across LLMs (ChatGPT, Perplexity, Gemini, Claude).
-- **Brand Governance & Go-To-Market:** Aligning commercial value propositions, B2B/B2C messaging matrices, and cross-channel acquisition funnels with strict brand positioning guidelines.
+- **Product Management & Strategy:** Defining product roadmaps, translating complex user and business needs (B2B Corporate, B2C Employees, and Care Professionals) into scalable digital features, and optimizing matching ecosystems (*Human + Tech* synergy).
+- **AI Engineering & Agentic Workflows:** Designing structured knowledge architectures (such as the **Harness Framework**: `canon`, `entities`, `signals`), implementing Retrieval-Augmented Generation (RAG) pipelines, and practicing advanced **Context Engineering** to govern AI agents in product operations.
+- **Data-Driven Product Discovery:** Analyzing user behavior, cohort retention, and product funnels through quantitative and qualitative signals to prioritize high-impact releases.
+- **Cross-Functional Execution:** Collaborating closely with engineering, design, and operations teams to ship reliable features and maintain strict product governance.
 
 ---
 
 ## 🛠 Core Skills & Competencies
 
-### Product & Growth Strategy
+### Product Strategy & Execution
 - End-to-End Product Lifecycle & Roadmap Prioritization
-- B2B SaaS / Corporate Welfare & B2C Marketplace Dynamics
-- Conversion Rate Optimization (CRO) & Landing Page Architecture
+- B2B SaaS / Corporate Welfare & Two-Sided Platform Dynamics
+- User Flows, Wireframing & Feature Specification
 - Funnel Analytics, Cohort Retention & KPI Definition
-- Go-To-Market (GTM) & Commercial Positioning
+- Continuous Discovery & Backlog Management
 
 ### AI & Agentic Systems
-- **Context Engineering & Prompt Architecture:** Designing deterministic rulebooks (`CLAUDE.md`, `AGENT.md`) to prevent hallucinations and enforce brand/technical guardrails.
+- **Context Engineering & Prompt Architecture:** Designing deterministic rulebooks (`CLAUDE.md`, `AGENT.md`) to prevent hallucinations and enforce system guardrails.
 - **RAG (Retrieval-Augmented Generation):** Structuring modular markdown knowledge bases for accurate semantic retrieval.
-- **Agentic IDE Workflows:** Operating AI-assisted development and content pipelines via Git/GitHub and modern agentic workspaces.
-- **Generative Engine Optimization (GEO):** Monitoring LLM referral traffic, crawler logs, and AI citation accuracy.
+- **Agentic IDE Workflows:** Operating AI-assisted development and documentation pipelines via Git/GitHub and modern agentic workspaces.
 
 ### Technical & Software Stack
-- **Product Analytics & Data:** Amplitude, Google Analytics 4 (GA4), Google Search Console (GSC), SQL
+- **Product Analytics & Data:** Amplitude, Google Analytics 4 (GA4), SQL
 - **Design & Prototyping:** Figma (Wireframing, User Flows, UI/UX Collaboration)
-- **Web & Markup:** HTML5, Markdown, Technical SEO (Schema Markup / JSON-LD, Semantic Structure)
+- **Web & Markup:** HTML5, Markdown, Structured Data
 - **Version Control & Ops:** Git, GitHub, GitHub Projects, CI/CD Documentation Workflows
 
 ---
 
-## 📂 Featured Architecture: AI-Native Marketing & Product Ops
+## 📂 Featured Architecture: AI-Native Product Ops
 
-I design repository-based operating systems that allow cross-functional teams and AI agents to collaborate without context loss:
+I design repository-based operating systems that allow product teams and AI agents to collaborate without context loss:
 
 ```text
-├── 1-canon/       # Immutable brand positioning, tone of voice & technical rules
-├── 2-entities/    # Active strategy, product specs, commercial offers, keywords & briefs
-├── 3-signals/     # Empirical data (Amplitude, GA4, GSC, LLM referrals) — zero interpolation
-└── templates/     # Standardized execution blueprints
+├── 1-canon/       # Immutable product principles, system rules & technical guardrails
+├── 2-entities/    # Active roadmap, product specs, user flows & feature definitions
+├── 3-signals/     # Empirical product data (Amplitude, GA4, user feedback) — zero interpolation
+└── templates/     # Standardized PRD & execution blueprints
