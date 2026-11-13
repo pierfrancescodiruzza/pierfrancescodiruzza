@@ -92,6 +92,6 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TUO-PROFILO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TUO-PROFILO](https://www.linkedin.com/in/pierfrancesco-di-ruzza-product-growth/))
 [![LianeCare](https://img.shields.io/badge/LianeCare-033F28?style=for-the-badge&logo=safari&logoColor=white)](https://lianecare.com)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tua.email@esempio.com)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pier-diruzza@gmail.com)
