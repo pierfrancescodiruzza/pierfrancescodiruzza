@@ -56,17 +56,6 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>📢 LianeCare Changelog</h3>
-      <p><i>Public product release platform conceived & launched solo</i></p>
-      <p>Communicates continuous feature releases, system improvements, and product updates transparently to B2B HR stakeholders and families.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Feature_Adoption-+28%25-0E7490?style=flat-square" />
-        <img src="https://img.shields.io/badge/Repetitive_Tickets--30%25-0E7490?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
