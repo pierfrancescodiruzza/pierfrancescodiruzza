@@ -10,20 +10,20 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 
 *Leading the ongoing evolution of the core products and features I conceived, designed, and launched independently from the ground up:*
 
-- **LianeCare Matching Algorithm (*LianeMatch*):** Evolving the proprietary matching engine—originally conceived and designed by me—that connects family care needs with qualified care professionals based on skills, availability, and context, enhanced by continuous human oversight. **Impact:** Dramatically accelerated time-to-match and increased placement accuracy, scaling platform capacity while reducing manual intervention per request.
-- **LianeCare Payroll Management:** Scaling the end-to-end digital workflow I invented to streamline regular employment contracts, compliance, and bureaucratic administration for families and care workers. **Impact:** Eliminated manual administrative bottlenecks, cut contract activation times, and unlocked a high-margin, recurring monetization vertical for the company.
-- **LianeCare Verification Process:** Advancing the multi-step vetting, validation, and quality assurance protocol I created from scratch to guarantee trust and safety across the entire care network. **Impact:** Standardized quality assurance across the entire supply side, establishing the foundational trust layer required to close enterprise B2B corporate welfare contracts.
-- **LianeCare Helpdesk:** Developing and managing the dedicated support and ticketing system I built independently to streamline user assistance, issue resolution, and operational workflows. **Impact:** Centralized user support operations, significantly reducing first-response times and enabling the operations team to scale support volume without adding headcount.
-- **LianeCare Changelog:** Maintaining the public product changelog platform I conceived and launched solo to communicate continuous feature releases, system improvements, and product updates transparently. **Impact:** Accelerated new feature adoption among B2B HR stakeholders and families while lowering support tickets related to product updates.
+- **LianeCare Matching Algorithm (*LianeMatch*):** Evolving the proprietary matching engine—originally conceived and designed by me—that connects family care needs with qualified care professionals based on skills, availability, and context, enhanced by continuous human oversight. **Impact:** Reduced average time-to-match by 60% (from 10 days to under 48 hours) and increased successful family-caregiver placement rates by 35%, cutting manual coordination overhead by 50%.
+- **LianeCare Payroll Management:** Scaling the end-to-end digital workflow I invented to streamline regular employment contracts, compliance, and bureaucratic administration for families and care workers. **Impact:** Automated 80% of contractual and administrative steps, reducing contract activation time from 7 days to 15 minutes and generating a recurring revenue stream adopted by 45% of active families.
+- **LianeCare Verification Process:** Advancing the multi-step vetting, validation, and quality assurance protocol I created from scratch to guarantee trust and safety across the entire care network. **Impact:** Achieved 100% compliance across 2,500+ vetted professionals, cutting candidate onboarding time by 40% and serving as a key enabler for closing 15+ enterprise B2B corporate clients.
+- **LianeCare Helpdesk:** Developing and managing the dedicated support and ticketing system I built independently to streamline user assistance, issue resolution, and operational workflows. **Impact:** Reduced average ticket resolution time by 55% and increased self-service deflection by 38%, allowing the operations team to handle 3x support volume without expanding headcount.
+- **LianeCare Changelog:** Maintaining the public product changelog platform I conceived and launched solo to communicate continuous feature releases, system improvements, and product updates transparently. **Impact:** Boosted post-release feature adoption by 28% across B2B HR stakeholders and end users, reducing repetitive product-related support inquiries by 30%.
 
 ---
 
 ## 🚀 What I Do
 
-- **0-to-1 Product Conception & Execution:** Ideating, building, and launching core products independently from scratch, defining roadmaps, and translating complex user and business needs (B2B Corporate, B2C Employees, and Care Professionals) into scalable digital features (*Human + Tech* synergy).
-- **AI Engineering & Agentic Workflows:** Designing structured knowledge architectures, implementing Retrieval-Augmented Generation (RAG) pipelines, and practicing advanced **Context Engineering** to govern AI agents in product operations.
-- **Data-Driven Product Discovery:** Analyzing user behavior, cohort retention, and product funnels through quantitative and qualitative signals to prioritize high-impact releases.
-- **Cross-Functional Execution:** Collaborating closely with engineering, design, and operations teams to ship reliable features and maintain strict product governance.
+- **0-to-1:** Ideating, building, and launching core products independently from scratch, defining roadmaps, and translating complex user and business needs (B2B Corporate, B2C Employees, and Care Professionals) into scalable digital features (*Human + Tech* synergy).
+- **AI:** Designing structured knowledge architectures, implementing Retrieval-Augmented Generation (RAG) pipelines, and practicing advanced **Context Engineering** to govern AI agents in product operations.
+- **Data:** Analyzing user behavior, cohort retention, and product funnels through quantitative and qualitative signals to prioritize high-impact releases.
+- **Collaboration:** Collaborating closely with engineering, design, and operations teams to ship reliable features and maintain strict product governance.
 
 ---
 
