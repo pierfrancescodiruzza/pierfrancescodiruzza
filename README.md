@@ -11,7 +11,7 @@ Bridging product strategy, AI-driven workflows, and scalable digital systems. At
 *Leading the ongoing evolution of the core products and features I conceived, designed, and launched independently from the ground up:*
 
 - **LianeCare Matching Algorithm (*LianeMatch*):** Evolving the proprietary matching engine—originally conceived and designed by me—that connects family care needs with qualified care professionals based on skills, availability, and context, enhanced by continuous human oversight.
-- **LianeCare Contract Management:** Scaling the end-to-end digital workflow I invented to streamline regular employment contracts, compliance, and bureaucratic administration for families and care workers.
+- **LianeCare Payroll Management:** Scaling the end-to-end digital workflow I invented to streamline regular employment contracts, compliance, and bureaucratic administration for families and care workers.
 - **LianeCare Verification Process:** Advancing the multi-step vetting, validation, and quality assurance protocol I created from scratch to guarantee trust and safety across the entire care network.
 - **LianeCare Helpdesk:** Developing and managing the dedicated support and ticketing system I built independently to streamline user assistance, issue resolution, and operational workflows.
 - **LianeCare Changelog:** Maintaining the public product changelog platform I conceived and launched solo to communicate continuous feature releases, system improvements, and product updates transparently.
